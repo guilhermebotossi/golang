@@ -1,7 +1,6 @@
 package main
 
 import "fmt"
-import "reflect"
 
 func vals() (int, int) {
     return 3, 7
